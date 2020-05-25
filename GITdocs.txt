@@ -7,3 +7,5 @@
 4. upload source code
 
 5. initial commit
+
+6.edit the file using edit option
