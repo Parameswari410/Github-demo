@@ -13,3 +13,5 @@
 7.created new branch under master
 
 8.better u can use fork option as new features.
+
+9.addded resolve option
