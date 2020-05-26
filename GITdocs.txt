@@ -10,12 +10,10 @@
 
 6.edit the file using edit option
 
-7.created new branch under master
+7.create multiple branches under master
 
 8.better u can use fork option as new features.
 
 9.addded resolve option
 
 10.added resolve conflict option with message
-
-
