@@ -15,3 +15,5 @@
 8.better u can use fork option as new features.
 
 9.addded resolve option
+
+10.added resolve conflict option with message
